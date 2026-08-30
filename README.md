@@ -1,2 +1,2 @@
 # graph
-a graph algorithm toolkit
+This is a graph algorithm toolkit including a class named graph.
